@@ -7,7 +7,7 @@
 
 
 
-Developed in Python, by Masrova or Veyko. ( I have two )
+Developed in Python, by Masrova ( I have two )
 
 Tool in English.
 
